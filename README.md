@@ -1,5 +1,6 @@
-# crsp_se_merge
-Merging CRSP and SE datasets using Levenshtein distance based algorithm for fuzzy matching.
+# crsp_se_fuzzy_merge
+
+**_Merging CRSP and SE datasets using Levenshtein distance based algorithm for fuzzy matching._**
 
 CRSP is a dataset containing information about american companies, often used for financial research, whereas SE is a dataset containing information related to earnings calls about companies around the world.
 
